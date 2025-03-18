@@ -44,29 +44,32 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 /android/*
+android/
 
 # Ios
 ios/*
+iso/
 
 # linux
 linux/*
+linux/
 
 # macos
 macos/*
+macos/
 
 # windows
 windows/*
+windows/
 
 # web
 web/*
 
+
 # build
 build/*
+build/
 
 # files
 *data
 *.lock
-
-# firebase
-firebase.json
-lib\firebase_options.dart
